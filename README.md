@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @itsmevitinn
-- 👀 I’m interested in ... always learning
+- 👀 I’m interested in ... learning
 - 🌱 I’m currently learning ... C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... vitorsergio111@gmail.com
