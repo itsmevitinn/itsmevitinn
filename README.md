@@ -1,5 +1,5 @@
-- 🔭 I’m currently studying at 42|Rio
-- 🌱 I’m currently learning HTML and C
+- 🔭 I’m currently studying at 
+- 🌱 I’m currently learning C and Bash
 - 💞 I’m looking to collaborate on open source and free software
 - 📫 How to reach me: vitorsergio111@gmail.com
 - 💡 Fun fact: I love pizza
