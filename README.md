@@ -1,4 +1,4 @@
-- 🔭 I’m currently studying at 
+- 🔭 I’m currently studying at @42rio
 - 🌱 I’m currently learning C and Bash
 - 💞 I’m looking to collaborate on open source and free software
 - 📫 How to reach me: vitorsergio111@gmail.com
