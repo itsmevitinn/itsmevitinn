@@ -1,12 +1,5 @@
 ## Olá, seja bem vindo ao meu perfil =)
 
-🔭 I’m currently studying at @42rio basecamp
-🌱 I’m currently learning Shell and C
-👯 I’m looking to collaborate on open-source, free-software and education projects.
-📫 How to reach me: vitorsergio111@gmail.com
-😄 Pronouns: he/him
-⚡ Fun fact: I really love to do recursion. even though I'm not that good on it.
-
 <div align="center">
   <a href="https://github.com/itsmevitinn">
   <img height="131em" src="https://github-readme-stats.vercel.app/api?username=itsmevitinn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
