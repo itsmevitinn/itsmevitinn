@@ -1,4 +1,12 @@
 ## Olá, seja bem vindo ao meu perfil =)
+
+🔭 I’m currently studying at @42rio basecamp
+🌱 I’m currently learning Shell and C
+👯 I’m looking to collaborate on open-source, free-software and education projects.
+📫 How to reach me: vitorsergio111@gmail.com
+😄 Pronouns: he/him
+⚡ Fun fact: I really love to do recursion. even though I'm not that good on it.
+
 <div align="center">
   <a href="https://github.com/itsmevitinn">
   <img height="131em" src="https://github-readme-stats.vercel.app/api?username=itsmevitinn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -11,7 +19,6 @@
   <img align="center" alt="Rafa-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 </div>
   
