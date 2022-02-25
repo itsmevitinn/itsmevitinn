@@ -9,7 +9,6 @@ I have a variety of interests: <br>
 
 🎓 graduated in computer technical school <br>
 ✏️ worked with commercial automation <br>
-📖 private teacher (FR EN PT) <br>
 🌎 languages (EN, PT) & travelling <br>
 🎹 music lover <br>
 🐾 animals <br>
