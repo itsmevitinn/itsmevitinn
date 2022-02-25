@@ -1,18 +1,18 @@
 ## Welcome to my profile =)
 
-Thanks for visiting! 😄
-I'm an avid self-learner and passionate 💛 about education. I'm currently a cadet (software engineering student) at École 42 ✨
+Thanks for visiting! 😄 <br>
+I'm an avid self-learner and passionate 💛 about education. I'm currently a cadet (software engineering student) at École 42 ✨ <br>
 
-My current goal is to deepen my knowledge in software engineering 💻 and impact students' lives through innovative ed-tech solutions 💡.
+My current goal is to deepen my knowledge in software engineering 💻 and impact students' lives through innovative ed-tech solutions 💡. <br>
 
-I have a variety of interests:
+I have a variety of interests: <br>
 
-🎓 graduated in computer technical school
-✏️ worked with commercial automation
-📖 private teacher (FR EN PT)
-🌎 languages (EN, PT) & travelling
-🎹 music lover
-🐾 animals
+🎓 graduated in computer technical school <br>
+✏️ worked with commercial automation <br>
+📖 private teacher (FR EN PT) <br>
+🌎 languages (EN, PT) & travelling <br>
+🎹 music lover <br>
+🐾 animals <br>
 ... always learning something new 🤓
 
 
