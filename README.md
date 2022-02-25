@@ -1,9 +1,21 @@
 ## Welcome to my profile =)
 
-• 🌱 I’m currently learning Shell Script, C, softskills and P2P evaluation methods <br>
-• 👯 I’m looking to collaborate on open-source, free-software and education projects.<br>
-• 📫 How to reach me: vitorsergio111@gmail.com<br>
-• 😄 Pronouns: he/him<br>
+Thanks for visiting! 😄
+I'm an avid self-learner and passionate 💛 about education. I'm currently a cadet (software engineering student) at École 42 ✨
+
+My current goal is to deepen my knowledge in software engineering 💻 and impact students' lives through innovative ed-tech solutions 💡.
+
+I have a variety of interests:
+
+🎓 graduated in computer technical school
+✏️ worked with commercial automation
+📖 private teacher (FR EN PT)
+🌎 languages (EN, PT) & travelling
+🎹 music lover
+🐾 animals
+... always learning something new 🤓
+
+
 
 <div align="center">
   <a href="https://github.com/itsmevitinn">
