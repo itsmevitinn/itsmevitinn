@@ -1,8 +1,6 @@
-## Hi there !
+## Hi there 😄
 
-### Thanks for visiting! 😄
-
-I'm an avid self-learner and passionate 💜 about education. I'm currently a _cadet_ (software engineering student) at [École 42](https://www.42sp.org.br/) ✨
+I'm an avid self-learner and passionate 💛 about education. I'm currently a _cadet_ (software engineering student) at [École 42](https://www.42sp.org.br/) ✨
 
 I have experience in diverse programming languages and technologies. My current goal is to deepen my knowledge in software engineering 💻 and impact students' lives through innovative ed-tech solutions 💡.
 
