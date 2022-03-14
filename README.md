@@ -14,7 +14,20 @@ I have a variety of interests: <br>
 🐾 animals <br>
 ... always learning something new 🤓
 
-
+<p align="center">
+	<a href="mailto:amanda_pinha@hotmail.com">
+		<img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:amanda_pinha@hotmail.com" />
+	</a>
+	<span> * </span>
+	<a href="mailto:amanda_pinha@hotmail.com">
+		<img alt="Demandez moi n'importe quoi" src="https://img.shields.io/badge/-Demandez_moi_n'%20importe_quoi-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:amanda_pinha@hotmail.com" />
+	</a>
+	<span> * </span>
+	<a href="https://www.linkedin.com/in/appinha/">
+		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/appinha/" />
+	</a>
+  
+</p>
 
 <div align="center">
   <a href="https://github.com/itsmevitinn">
