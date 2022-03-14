@@ -1,4 +1,4 @@
-## Hi there 😄
+## Hi there! 😄
 
 I'm an avid self-learner and passionate 💛 about education. I'm currently a _cadet_ (software engineering student) at [École 42](https://www.42sp.org.br/) ✨
 
