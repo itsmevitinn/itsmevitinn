@@ -8,9 +8,9 @@ I have a variety of interests:
 
 * 🎓  graduated in computer technical school
 * ✏️   worked with commercial automation
-* 🌎  languages (EN, PT) & travelling
+* 🌎  languages (EN & PT-BR)
 * 🎹  music lover
-* 🐾  animals
+* ⛓️  blockchain
 
 ... always learning something new 🤓
 
