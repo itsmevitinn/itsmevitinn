@@ -16,12 +16,12 @@ I have a variety of interests:
 
 
 <p align="center">
-	<a href="mailto:vitorsergio111@gmail.com.com">
-		<img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:vitorsergio111@gmail.com" />
+	<a href="mailto:vsergio@student.42.rio">
+		<img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:vsergio@student.42.rio" />
 	</a>
 	<span> * </span>
-	<a href="mailto:vitorsergio111@gmail.com">
-		<img alt="Demandez moi n'importe quoi" src="https://img.shields.io/badge/-Demandez_moi_n'%20importe_quoi-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:vitorsergio111@gmail.com" />
+	<a href="mailto:vsergio@student.42.rio">
+		<img alt="Demandez moi n'importe quoi" src="https://img.shields.io/badge/-Demandez_moi_n'%20importe_quoi-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:vsergio@student.42.rio" />
 	</a>
 	<span> * </span>
 	<a href="https://www.linkedin.com/in/itsmevitinn/">
