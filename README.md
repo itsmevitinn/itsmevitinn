@@ -10,7 +10,6 @@ I have a variety of interests:
 * ✏️   worked with commercial automation
 * 🌎  languages (EN & PT-BR)
 * 🎹  music lover
-* ⛓️  blockchain
 
 ... always learning something new 🤓
 
