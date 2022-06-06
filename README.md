@@ -35,11 +35,11 @@ I have a variety of interests:
 
 #### FASE 1:
 <a href="https://github.com/itsmevitinn/42cursus-libft">
-<img src="./src/badges/libftm.png" height="90" width="90">
+<img src="./badges/libftm.png" height="90" width="90">
 </a>
     
 <a href="https://github.com/itsmevitinn/42cursus-01-get_next_line">
-<img src="./src/badges/get_next_linem.png" height="90" width="90">
+<img src="./badges/get_next_linem.png" height="90" width="90">
 </a>
  
 ---
