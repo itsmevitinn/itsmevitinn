@@ -29,8 +29,6 @@ I have a variety of interests:
 </p>
 
 ---
-
----
 ## 42 progress 📈:  
 
 #### FASE 1:
