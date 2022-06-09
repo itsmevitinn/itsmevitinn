@@ -9,8 +9,6 @@ I have experience in diverse programming languages and technologies. My current 
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * 🍕  I love pizza
 
-... always learning something new 🤓
-
 
 <p align="center">
 	<a href="mailto:vsergio@student.42.rio">
