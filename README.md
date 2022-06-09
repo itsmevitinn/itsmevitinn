@@ -26,26 +26,6 @@ I have experience in diverse programming languages and technologies. My current 
 	</a>
 </p>
 
----
-## 42 progress 📈:  
-
-#### FASE 1:
-<a href="https://github.com/itsmevitinn/42cursus-libft">
-<img src="./badges/libftm.png" height="90" width="90">
-</a>
-    
-<a href="https://github.com/itsmevitinn/42cursus-01-get_next_line">
-<img src="./badges/get_next_linem.png" height="90" width="90">
-</a>
- 
----
-
-| [![itsmevitinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmevitinn&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=tokyonight)](https://github.com/itsmevitinn?tab=repositories) | [![itsmevitinn's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmevitinn&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/itsmevitinn?tab=repositories) |
-|:-:|:-:|
-
-<a href="https://www.github.com/itsmevitinn" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/itsmevitinn?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
-
 ### Skills
 
 <p align="left">
@@ -68,9 +48,25 @@ src="https://img.shields.io/github/followers/itsmevitinn?logo=github&style=for-t
 <!-- <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a> -->
 </p>
 
-### Socials
+---
+## 42 progress 📈:  
 
-<p align="left"> <a href="https://discord.com/users/661437172699889684" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a><a href="https://www.linkedin.com/in/itsmevitinn/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+#### FASE 1:
+<a href="https://github.com/itsmevitinn/42cursus-libft">
+<img src="./badges/libftm.png" height="90" width="90">
+</a>
+    
+<a href="https://github.com/itsmevitinn/42cursus-01-get_next_line">
+<img src="./badges/get_next_linem.png" height="90" width="90">
+</a>
+ 
+---
+
+| [![itsmevitinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmevitinn&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=tokyonight)](https://github.com/itsmevitinn?tab=repositories) | [![itsmevitinn's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmevitinn&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/itsmevitinn?tab=repositories) |
+|:-:|:-:|
+
+<!-- <a href="https://www.github.com/itsmevitinn" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/itsmevitinn?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a> -->
 
 ### Badges
 
