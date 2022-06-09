@@ -49,7 +49,7 @@ I have experience in diverse programming languages and technologies. My current 
 ---
 ## 42 progress 📈:  
 
-#### FASE 1:
+#### RANK 1:
 <a href="https://github.com/itsmevitinn/42cursus-libft">
 <img src="./badges/libftm.png" height="90" width="90">
 </a>
