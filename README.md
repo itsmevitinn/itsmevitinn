@@ -51,6 +51,7 @@ I have experience in diverse programming languages and technologies. My current 
 ---
 
 <a href="http://www.github.com/itsmevitinn"><img src="https://github-readme-stats.vercel.app/api?username=itsmevitinn&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="itsmevitinn's GitHub stats" /></a>
+
 <a href="https://github.com/itsmevitinn" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmevitinn&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
