@@ -41,11 +41,15 @@ I have experience in diverse programming languages and technologies. My current 
 
 #### RANK 1:
 <a href="https://github.com/itsmevitinn/42cursus-libft">
-<img src="./badges/libftm.png" height="90" width="90">
+<img src="./badges/libft.png" height="90" width="90">
 </a>
     
 <a href="https://github.com/itsmevitinn/42cursus-01-get_next_line">
-<img src="./badges/get_next_linem.png" height="90" width="90">
+<img src="./badges/get_next_line.png" height="90" width="90">
+</a>
+
+<a href="https://github.com/itsmevitinn/42cursus-01-get_next_line">
+<img src="./badges/ft_printf.png" height="90" width="90">
 </a>
  
 ---
