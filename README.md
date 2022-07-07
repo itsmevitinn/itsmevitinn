@@ -15,10 +15,6 @@ I have experience in diverse programming languages and technologies. My current 
 		<img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:vsergio@student.42.rio" />
 	</a>
 	<span> * </span>
-	<a href="mailto:vsergio@student.42.rio">
-		<img alt="Demandez moi n'importe quoi" src="https://img.shields.io/badge/-Demandez_moi_n'%20importe_quoi-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:vsergio@student.42.rio" />
-	</a>
-	<span> * </span>
 	<a href="https://www.linkedin.com/in/itsmevitinn/">
 		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itsmevitinn/" />
 	</a>
