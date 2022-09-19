@@ -38,7 +38,7 @@ I have experience in diverse programming languages and technologies. My current 
 <a href="https://github.com/itsmevitinn/Libft"><img height="100" width="100" src="https://user-images.githubusercontent.com/91036103/177065431-91765077-1a29-4fa5-953a-8fb9e5844378.png"></a>
   <a href="https://github.com/itsmevitinn/get_next_line"><img height="100" width="100" src="https://user-images.githubusercontent.com/91036103/177065437-aa5abbe1-9e6d-4b42-b1d4-551722f0ac97.png"></a>
   <a href="https://github.com/itsmevitinn/ft_printf"><img height="100" width="100" src="https://user-images.githubusercontent.com/91036103/177065616-f52b5ad5-f462-4037-9daf-e50ef8016b92.png"></a>
-  <a href="https://github.com/RichardWallier/42Cursus-born2beroot"><img height="100" width="100" src="https://user-images.githubusercontent.com/91036103/180113397-35e858d9-998d-4898-a5c5-7e2f50caf15b.png"></a>
+  <a href="https://github.com/itsmevitinn/Born2beroot"><img height="100" width="100" src="https://user-images.githubusercontent.com/91036103/180113397-35e858d9-998d-4898-a5c5-7e2f50caf15b.png"></a>
   <a href="https://github.com/itsmevitinn/pipex"><img height="100" width="100" src="https://user-images.githubusercontent.com/91036103/180113815-5daad004-fe12-4684-9cf8-f8ef8bf9086b.png"></a>
   <a href="https://github.com/itsmevitinn/push_swap"><img height="100" width="100" src="https://github.com/itsmevitinn/42cursus-utils/blob/main/badges/push_swap_icon.png"></a>
   
