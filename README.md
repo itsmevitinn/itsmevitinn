@@ -4,7 +4,7 @@ I'm an avid self-learner and passionate 💛 about education. I'm currently a _c
 
 I have experience in diverse programming languages and technologies. My current goal is to deepen my knowledge in software engineering 💻 and impact students' lives through innovative ed-tech solutions 💡.
 
-* 🧠  I'm learning C programming language, Javascript and ReactJS
+* 🧠  I'm learning C, C++ and ReactJS
 * 🌎  languages (EN & PT-BR)
 * 🤝  I'm open to collaborating on projects that have a positive impact in people's lives
 * 🍕  I love pizza
