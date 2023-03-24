@@ -1,13 +1,10 @@
 ## Hi there! 😄
 
-I'm an avid self-learner and passionate 💛 about education. I'm currently a _cadet_ (software engineering student) at [École 42](https://42.rio/) ✨
-
-I have experience in diverse programming languages and technologies. My current goal is to deepen my knowledge in software engineering 💻 and impact students' lives through innovative ed-tech solutions 💡.
+I'm currently a cadet at [École 42](https://42.rio/), and I'm known for my independence and resilience. The school does not provide traditional lectures or coursework, it's a peer-to-peer methodology and relies on students to learn through project-based learning, with guidance from peers and mentors. This approach fosters a culture of self-motivation and encourages me to take ownership of my learning.
 
 * 🧠  I'm learning C, React Native and Swift!
 * 🌎  languages (EN & PT-BR)
 * 🤝  I'm open to collaborating on projects that have a positive impact in people's lives
-* 🍕  I love pizza
 
 
 <p align="center">
@@ -30,11 +27,8 @@ I have experience in diverse programming languages and technologies. My current 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.swift.org/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968371.png" width="36" height="36" alt="Swift" /></a>
 </p>
 
-
+<a href="http://www.github.com/itsmevitinn"><img src="https://github-readme-stats.vercel.app/api?username=itsmevitinn&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="itsmevitinn's GitHub stats" /></a>
 <a href="https://github.com/itsmevitinn" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmevitinn&layout=compact&title_color=3382ed&hide=css,objective-c,html&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/marcondesvitinn"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
