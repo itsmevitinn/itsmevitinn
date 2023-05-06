@@ -27,7 +27,6 @@ I'm currently a cadet at [École 42](https://42.rio/), and I'm known for my inde
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" width="36" height="36" alt="React" /></a>
 <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" width="36" height="36" alt="C" /></a>
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" width="36" height="36" alt="CPP" /></a>
-<a href="https://www.swift.org/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968371.png" width="36" height="36" alt="Swift" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vim" width="36" height="36" alt="VIM" /></a>
 </p>
