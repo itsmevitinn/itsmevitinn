@@ -2,7 +2,7 @@
 
 I'm currently a cadet at [École 42](https://42.rio/), and I'm known for my independence and resilience. The school does not provide traditional lectures or coursework, it's a peer-to-peer methodology and relies on students to learn through project-based learning, with guidance from peers and mentors. This approach fosters a culture of self-motivation and encourages me to take ownership of my learning.
 
-* 🧠  I'm learning C++, React Native, Node.js, TypeScript and Python!
+* 🧠  I'm learning C, C++, Python, React Native, Node.js and TypeScript!
 * 🌎  languages (EN & PT-BR)
 * 🤝  I'm open to collaborating on projects that have a positive impact in people's lives
 
