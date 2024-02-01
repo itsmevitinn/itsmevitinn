@@ -2,7 +2,7 @@
 
 I'm currently a cadet at [École 42](https://42.rio/), and I'm known for my independence and resilience. The school does not provide traditional lectures or coursework, it's a peer-to-peer methodology and relies on students to learn through project-based learning, with guidance from peers and mentors. This approach fosters a culture of self-motivation and encourages me to take ownership of my learning.
 
-* 🧠  I'm learning C, C++, Python, React Native, Node.js and TypeScript!
+* 🧠  I'm learning Django, React, Node.js and TypeScript!
 * 🌎  Languages (EN & PT-BR)
 * 🤝  I'm open to collaborating on projects that have a positive impact in people's lives
 
@@ -24,11 +24,14 @@ I'm currently a cadet at [École 42](https://42.rio/), and I'm known for my inde
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" width="36" height="36" alt="CSS3" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" width="36" height="36" alt="Javascript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" width="36" height="36" alt="Typescript" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" width="36" height="36" alt="React" /></a>
 <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" width="36" height="36" alt="C" /></a>
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" width="36" height="36" alt="CPP" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vim" width="36" height="36" alt="VIM" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" width="36" height="36" alt="React" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwindcss" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" width="36" height="36" alt="Nodejs" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgresql" width="36" height="36" alt="PostgreSQL" /></a>
+
 </p>
 
 <a href="http://www.github.com/itsmevitinn"><img src="https://github-readme-stats.vercel.app/api?username=itsmevitinn&count_private=true&show_icons=true&theme=tokyonight" alt="itsmevitinn's GitHub stats" /></a>
