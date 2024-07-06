@@ -2,8 +2,6 @@
 
 I'm currently a cadet at [École 42](https://42.rio/), and I'm known for my independence and resilience. The school does not provide traditional lectures or coursework, it's a peer-to-peer methodology and relies on students to learn through project-based learning, with guidance from peers and mentors. This approach fosters a culture of self-motivation and encourages me to take ownership of my learning.
 
-* 🌎  Languages (EN & PT-BR)
-
 
 <p align="center">
 	<a href="mailto:vsergio@student.42.rio">
